@@ -1,4 +1,4 @@
-** End to End deep learning project using Simple RNN (IMDB movie Review sentiment Analysis)
+End to End deep learning project using Simple RNN (IMDB movie Review sentiment Analysis)
 
 ![image alt](https://github.com/nilwagh8800/End-to-End-deep-learning-project-using-Simple-RNN-/blob/89808acb919ec2da30b2a96f729ad6ce840c3ce8/Screenshot%202024-12-27%20010546.png)
 
